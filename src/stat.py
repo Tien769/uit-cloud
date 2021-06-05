@@ -1,7 +1,4 @@
-import sys
-from operator import add
 from pyspark.sql import SparkSession
-from datetime import datetime, timedelta
 
 
 if __name__ == "__main__":
